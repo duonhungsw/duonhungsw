@@ -7,8 +7,9 @@
 <h3 align="center">Software Engineer in Vietnam • 2+ Years Experience</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Software+Engineer+%7C+.NET+%7C+React+%7C+Cloud;Lifelong+Learner;Building+clean+and+reliable+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=700&width=700&center=true&vCenter=true&lines=A+lively+lifelong+learner+with+a+passion+for+continuous+growth;Committed+to+building+clean%2C+reliable%2C+and+scalable+systems" />
 </p>
+
 
 ---
 
