@@ -83,8 +83,6 @@ I am an M.sc. in Computer Science, majoring **Software Technology**. I am intere
 
 ![](https://nirzak-streak-stats.vercel.app/?user=duonhungsw&theme=one_dark_pro&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duonhungsw&theme=one_dark_pro&hide_border=false&layout=compact)
-
 ---
 
 # 🎨 Animated Contribution Graph
