@@ -1,3 +1,17 @@
+<!-- ===========================
+      🚀 CUSTOM BANNER — ALLEN
+=========================== -->
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Allen%20•%20Software%20Engineer&width=900&height=250" />
+</p>
+
+<!-- ===========================
+      🧬 CYBER/MINIMAL AVATAR
+=========================== -->
+<p align="center">
+  <img src="https://api.dicebear.com/7.x/bottts/svg?seed=Allen&scale=110&radius=50&backgroundColor=b6e3f4,c0aede,d1d4f9" width="180" />
+</p>
+
 <!-- Header Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-templates/master/assets/header-banner.gif" width="100%" />
