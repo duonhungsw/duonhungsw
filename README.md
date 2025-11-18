@@ -94,13 +94,12 @@ I am an M.sc. in Computer Science, majoring **Softeare Technology**. I am intere
 
 ---
 
-
-# 🏆 Custom Project Badges (Project-Based)
+# 🏆 Custom Project Badges
 
 <p align="center">
 
-<a href="https://github.com/duonhungsw/BookWorld">
-<img src="https://img.shields.io/badge/BookWorld-.NET%20API-blue?style=for-the-badge&logo=dotnet" />
+<a href="https://github.com/duonhungsw/ALLEN">
+<img src="https://img.shields.io/badge/ALLEN-.NET%20API-blue?style=for-the-badge&logo=dotnet" />
 </a>
 
 <a href="https://github.com/duonhungsw/SportShop">
@@ -112,30 +111,6 @@ I am an M.sc. in Computer Science, majoring **Softeare Technology**. I am intere
 </a>
 
 </p>
-
----
-
-# 📌 Pinned Projects — Custom Card UI
-
-<div align="center">
-
-<a href="https://github.com/duonhungsw/BookWorld">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=duonhungsw&repo=BookWorld&theme=tokyonight&border_color=0d1117" />
-</a>
-
-<a href="https://github.com/duonhungsw/SportShop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=duonhungsw&repo=SportShop&theme=tokyonight&border_color=0d1117" />
-</a>
-
-<a href="https://github.com/duonhungsw/HeroShop_OnlineShopping">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=duonhungsw&repo=HeroShop_OnlineShopping&theme=tokyonight&border_color=0d1117" />
-</a>
-
-<a href="https://github.com/duonhungsw/DuckFast">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=duonhungsw&repo=DuckFast&theme=tokyonight&border_color=0d1117" />
-</a>
-
-</div>
 
 ---
 
