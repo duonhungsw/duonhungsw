@@ -1,9 +1,10 @@
 <!-- ===========================
       🚀 CUSTOM BANNER — ALLEN
-=========================== -->
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Allen%20•%20Software%20Engineer&width=900&height=250" />
 </p>
+=========================== -->
+
 
 <!-- ===========================
       🧬 CYBER/MINIMAL AVATAR
