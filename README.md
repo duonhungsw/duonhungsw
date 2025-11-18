@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-templates/master/assets/header-banner.gif" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Duong Duc Hung</strong> — <i>Allen</i></h1>
+<h1 align="center">👋 Hi, I'm <strong>Hung Duong</strong> — <i>Allen</i></h1>
 <h3 align="center">Software Engineer in Vietnam • 2+ Years Experience</h3>
 
 <p align="center">
