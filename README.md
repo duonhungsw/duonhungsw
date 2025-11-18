@@ -30,7 +30,7 @@
 
 # 💫 About Me
 
-I am an M.sc. in Computer Science, majoring **Softeare Technology**. I am interested in the following topics: Backend systems, Clean architecture, Cloud services, and Building reliable products used in real environments.
+I am an M.sc. in Computer Science, majoring **Software Technology**. I am interested in the following topics: Backend systems, Clean architecture, Cloud services, and Building reliable products used in real environments.
 
 - 💼 2+ years working in software engineering  
 - 🔭 Currently learning advanced system design & cloud architecture  
