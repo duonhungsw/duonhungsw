@@ -14,7 +14,7 @@
 
 # 💫 About Me
 
-I'm a Software Engineer specializing in **Software Technology**, passionate about backend systems, clean architecture, cloud services, and building reliable products used in real environments.
+I am an M.sc. in Computer Science, majoring **Softeare Technology**. I am interested in the following topics: Backend systems, Clean architecture, Cloud services, and Building reliable products used in real environments.
 
 - 💼 2+ years working in software engineering  
 - 🔭 Currently learning advanced system design & cloud architecture  
@@ -23,7 +23,7 @@ I'm a Software Engineer specializing in **Software Technology**, passionate abou
 
 ---
 
-# 🌐 Socials
+# 🌐 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duonghung252)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hungdd.sw)
 
@@ -78,10 +78,6 @@ I'm a Software Engineer specializing in **Software Technology**, passionate abou
 
 ---
 
-# 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=duonhungsw&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 
 <p align="center">
   <i>“Build clean systems. Deliver real value.”</i>
