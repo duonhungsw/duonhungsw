@@ -136,32 +136,7 @@ I am an M.sc. in Computer Science, majoring **Softeare Technology**. I am intere
 
 </div>
 
-
-# 🕒 Career Timeline (SVG)
-
-```svg
-<svg width="800" height="220" xmlns="http://www.w3.org/2000/svg">
-
-  <style>
-    .title { font: bold 18px sans-serif; fill: #00E0FF; }
-    .text { font: 14px sans-serif; fill: #E0E0E0; }
-    .dot  { fill:#00E0FF; }
-  </style>
-
-  <!-- Year markers -->
-  <text x="40" y="40"  class="title">2022</text>
-  <text x="40" y="90"  class="text">Started Software Technology major</text>
-
-  <text x="40" y="140" class="title">2023</text>
-  <text x="40" y="190" class="text">First internships & real project exposure</text>
-
-  <text x="420" y="40" class="title">2024</text>
-  <text x="420" y="90" class="text">Backend engineer • .NET & Cloud</text>
-
-  <text x="420" y="140" class="title">2025</text>
-  <text x="420" y="190" class="text">2+ Years Experience • Building scalable systems</text>
-
-</svg>
+---
 
 <p align="center">
   <i>“Build clean systems. Deliver real value.”</i>
